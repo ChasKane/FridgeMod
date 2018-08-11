@@ -1,4 +1,4 @@
-I disliked my fridge's water dispenser design. I had to hold the button down for as long as I wanted water to flow from it, thus my tea was always a different strenght because i was too lazy to grab a measuring cup instead of putting the water directly into the kettle. NO, I say! I instead designed a Microchip-based embedded system to serve a few related functions:
+I disliked my fridge's water dispenser design. I had to hold the button down for as long as I wanted water to flow from it, thus my tea was always a different strenght. NO, I say! I instead designed a Microchip-based embedded system to serve a few related functions:
 
 -Look really cool and promote conversation with anyone in the kitchen for the first time.
 
